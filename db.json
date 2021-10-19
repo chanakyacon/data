@@ -1,26 +1,24 @@
 {
-  {
-    "listName": "Weekend List",
-    "dueDate": "08 September",
-    "groupMem": "Santosh, Santosh",
-    "items": "25 Items"
-  },
-  {
-    "listName": "Daily List",
-    "dueDate": "08 September",
-    "groupMem": "Santosh, Santosh",
-    "items": "25 Items"
-  },
-  {
-    "listName": "Weekly List",
-    "dueDate": "08 September",
-    "groupMem": "Santosh, Santosh",
-    "items": "25 Items"
-  },
-  {
-    "listName": "Monthly List",
-    "dueDate": "08 September",
-    "groupMem": "Santosh, Santosh",
-    "items": "25 Items"
-  }
+  "listName": "Weekend List",
+  "dueDate": "08 September",
+  "groupMem": "Santosh, Santosh",
+  "items": "25 Items"
+},
+{
+  "listName": "Daily List",
+  "dueDate": "08 September",
+  "groupMem": "Santosh, Santosh",
+  "items": "25 Items"
+},
+{
+  "listName": "Weekly List",
+  "dueDate": "08 September",
+  "groupMem": "Santosh, Santosh",
+  "items": "25 Items"
+},
+{
+  "listName": "Monthly List",
+  "dueDate": "08 September",
+  "groupMem": "Santosh, Santosh",
+  "items": "25 Items"
 }
