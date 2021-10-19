@@ -1,0 +1,24 @@
+{
+  listName: "Weekend List",
+  dueDate: '08 September',
+  groupMem: 'Santosh, Santosh',
+  items: '25 Items'
+},
+{
+  listName: 'Daily List',
+  dueDate: '15 Sept',
+  groupMem: 'Roushan, Juhi',
+  items: '5 Items'
+},
+{
+  listName: 'Weekly List',
+  dueDate: '20 Sept',
+  groupMem: 'Swaroop, Kishore',
+  items: '20 Items'
+},
+{
+  listName: 'Monthly List',
+  dueDate: '1 Oct',
+  groupMem: 'Chanakya, Shyam',
+  items: '25 Items'
+}
